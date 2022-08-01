@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.pre-header{
+    background-color: black;
+    height: 60px;
+    color: white;
+    padding: 15px;
+}
+
+.main-menu{
+    list-style: none;
+}
+
+.pre-header .main-menu li a {
+    color: gray;
+}
+.pre-header .main-menu li {
+    display: inline;
+    margin-left: 15px;
+    text-transform: uppercase;
+}
